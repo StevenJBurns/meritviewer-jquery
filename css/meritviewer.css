@@ -1,4 +1,22 @@
 @font-face {
-    font-family: Coalitiont;
+    font-family: Coalition;
     src: url(../fonts/coalition_v2.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0
+}
+
+header {
+    color: #D0D0D0;
+    background-color: #303030
+}
+
+header h2 {
+    width: 100%;
+    text-align: center;
+    font-family: Coalition;
+    font-weight: normal;
+    font-style: normal;
 }
