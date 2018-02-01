@@ -35,10 +35,23 @@ main {
   flex: 1 0 auto
 }
 
+#div-empire-select {
+  text-align: center
+}
+
+main .btn-large {
+  height: 96px;
+  width: 96px;
+  margin: 4px;
+  padding: 0
+}
+
 main img {
   height: 96px;
   width: 96px
 }
+
+
 
 footer {
   padding: 12px;
