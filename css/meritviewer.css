@@ -24,7 +24,7 @@ header {
 header h2 {
   width: 100%;
   text-align: center;
-  font-size: 5vw
+  font-size: 2.5vw
 }
 
 nav {
@@ -41,18 +41,18 @@ main {
 }
 
 main .btn-large {
-  height: 96px;
-  width: 96px;
+  height: 5vw;
+  width: 5vw;
+  min-height: 48px;
+  min-width: 48px;
   margin: 4px;
   padding: 0
 }
 
 main img {
-  height: 96px;
-  width: 96px
+  height: auto;
+  width: 100%
 }
-
-
 
 footer {
   padding: 12px;
