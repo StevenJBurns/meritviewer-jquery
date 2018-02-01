@@ -1,22 +1,45 @@
 @font-face {
-    font-family: Coalition;
-    src: url(../fonts/coalition_v2.ttf);
+  font-family: Coalition;
+  src: url(../fonts/coalition_v2.ttf);
 }
 
 * {
-    margin: 0;
-    padding: 0
+  margin: 0;
+  padding: 0
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
 }
 
 header {
-    color: #D0D0D0;
-    background-color: #303030
+  color: #D0D0D0;
+  font-family: Coalition;
+  font-weight: normal;
+  font-style: normal
 }
 
 header h2 {
-    width: 100%;
-    text-align: center;
-    font-family: Coalition;
-    font-weight: normal;
-    font-style: normal;
+  width: 100%;
+  text-align: center
+}
+
+nav {
+  width: 100%
+}
+
+main {
+  flex: 1 0 auto
+}
+
+footer {
+  padding: 12px;
+  color: #D0D0D0;
+}
+
+footer h6 {
+  width: 100%;
+  text-align: center
 }
