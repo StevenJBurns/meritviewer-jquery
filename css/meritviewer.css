@@ -38,6 +38,10 @@ main {
   flex: 1 0 auto
 }
 
+main p {
+  text-align: justify
+}
+
 #div-empire-select {
   text-align: center
 }
