@@ -1,0 +1,3423 @@
+{
+   "MeritData": {
+      "Category": [
+         {
+			"name": "Empire Service",
+            "Group": [
+               {
+                  "Merit": [
+                     {
+                        "empire": "NC",
+                        "level": "1",
+                        "counters": "0",
+                        "streak": "0",
+                        "imagepath": "AnnualServiceNC1.png",
+                        "name": "Annual Term of Service (1-Year)"
+                     },
+                     {
+                        "empire": "NC",
+                        "level": "2",
+                        "counters": "0",
+                        "streak": "0",
+                        "imagepath": "AnnualServiceNC2.png",
+                        "name": "Annual Term of Service (2-Year)"
+                     },
+                     {
+                        "empire": "NC",
+                        "level": "3",
+                        "counters": "0",
+                        "streak": "0",
+                        "imagepath": "AnnualServiceNC3.png",
+                        "name": "Annual Term of Service (3-Year)"
+                     },
+                     {
+                        "empire": "NC",
+                        "level": "4",
+                        "counters": "0",
+                        "streak": "0",
+                        "imagepath": "AnnualServiceNC4.png",
+                        "name": "Annual Term of Service (4-Year)"
+                     },
+                     {
+                        "empire": "NC",
+                        "level": "5",
+                        "counters": "0",
+                        "streak": "0",
+                        "imagepath": "AnnualServiceNC5.png",
+                        "name": "Annual Term of Service (5-Year)"
+                     },
+                     {
+                        "empire": "NC",
+                        "level": "6",
+                        "counters": "0",
+                        "streak": "0",
+                        "imagepath": "AnnualServiceNC6.png",
+                        "name": "Annual Term of Service (6-Year)"
+                     },
+                     {
+                        "empire": "TR",
+                        "level": "1",
+                        "counters": "0",
+                        "streak": "0",
+                        "imagepath": "AnnualServiceTR1.png",
+                        "name": "Annual Term of Service (1-Year)"
+                     },
+                     {
+                        "empire": "TR",
+                        "level": "2",
+                        "counters": "0",
+                        "streak": "0",
+                        "imagepath": "AnnualServiceTR2.png",
+                        "name": "Annual Term of Service (2-Year)"
+                     },
+                     {
+                        "empire": "TR",
+                        "level": "3",
+                        "counters": "0",
+                        "streak": "0",
+                        "imagepath": "AnnualServiceTR3.png",
+                        "name": "Annual Term of Service (3-Year)"
+                     },
+                     {
+                        "empire": "TR",
+                        "level": "4",
+                        "counters": "0",
+                        "streak": "0",
+                        "imagepath": "AnnualServiceTR4.png",
+                        "name": "Annual Term of Service (4-Year)"
+                     },
+                     {
+                        "empire": "TR",
+                        "level": "5",
+                        "counters": "0",
+                        "streak": "0",
+                        "imagepath": "AnnualServiceTR5.png",
+                        "name": "Annual Term of Service (5-Year)"
+                     },
+                     {
+                        "empire": "TR",
+                        "level": "6",
+                        "counters": "0",
+                        "streak": "0",
+                        "imagepath": "AnnualServiceTR6.png",
+                        "name": "Annual Term of Service (6-Year)"
+                     },
+                     {
+                        "empire": "VS",
+                        "level": "1",
+                        "counters": "0",
+                        "streak": "0",
+                        "imagepath": "AnnualServiceVS1.png",
+                        "name": "Annual Term of Service (1-Year)"
+                     },
+                     {
+                        "empire": "VS",
+                        "level": "2",
+                        "counters": "0",
+                        "streak": "0",
+                        "imagepath": "AnnualServiceVS2.png",
+                        "name": "Annual Term of Service (2-Year)"
+                     },
+                     {
+                        "empire": "VS",
+                        "level": "3",
+                        "counters": "0",
+                        "streak": "0",
+                        "imagepath": "AnnualServiceVS3.png",
+                        "name": "Annual Term of Service (3-Year)"
+                     },
+                     {
+                        "empire": "VS",
+                        "level": "4",
+                        "counters": "0",
+                        "streak": "0",
+                        "imagepath": "AnnualServiceVS4.png",
+                        "name": "Annual Term of Service (4-Year)"
+                     },
+                     {
+                        "empire": "VS",
+                        "level": "5",
+                        "counters": "0",
+                        "streak": "0",
+                        "imagepath": "AnnualServiceVS5.png",
+                        "name": "Annual Term of Service (5-Year)"
+                     },
+                     {
+                        "empire": "VS",
+                        "level": "6",
+                        "counters": "0",
+                        "streak": "0",
+                        "imagepath": "AnnualServiceVS6.png",
+                        "name": "Annual Term of Service (6-Year)"
+                     }
+                  ],
+                  "GroupDescription": "I didn't unsub yet",
+                  "name": "Annual Term of Service",
+                  "_type": "Citation"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "NC",
+                        "level": "1",
+                        "counters": "1000",
+                        "streak": "0",
+                        "imagepath": "EmpireDefenseNC1.png",
+                        "name": "Combat Initiation"
+                     },
+                     {
+                        "empire": "NC",
+                        "level": "2",
+                        "counters": "2500",
+                        "streak": "0",
+                        "imagepath": "EmpireDefenseNC2.png",
+                        "name": "Citation For Bravery"
+                     },
+                     {
+                        "empire": "NC",
+                        "level": "3",
+                        "counters": "5000",
+                        "streak": "0",
+                        "imagepath": "EmpireDefenseNC3.png",
+                        "name": "Medal Of Combat Service"
+                     },
+                     {
+                        "empire": "NC",
+                        "level": "4",
+                        "counters": "7500",
+                        "streak": "0",
+                        "imagepath": "EmpireDefenseNC4.png",
+                        "name": "Distinguished Service Award"
+                     },
+                     {
+                        "empire": "NC",
+                        "level": "5",
+                        "counters": "10000",
+                        "streak": "0",
+                        "imagepath": "EmpireDefenseNC5.png",
+                        "name": "Order of the New Conglomerate Defense"
+                     },
+                     {
+                        "empire": "NC",
+                        "level": "5",
+                        "counters": "15000",
+                        "streak": "0",
+                        "imagepath": "EmpireDefenseNC6.png",
+                        "name": "Order of the New Conglomerate Defense Titanium"
+                     },
+                     {
+                        "empire": "NC",
+                        "level": "5",
+                        "counters": "30000",
+                        "streak": "0",
+                        "imagepath": "EmpireDefenseNC7.png",
+                        "name": "Order of the New Conglomerate Defense Auraxium"
+                     },
+                     {
+                        "empire": "TR",
+                        "level": "1",
+                        "counters": "1000",
+                        "streak": "0",
+                        "imagepath": "EmpireDefenseTR1.png",
+                        "name": "Combat Initiation"
+                     },
+                     {
+                        "empire": "TR",
+                        "level": "2",
+                        "counters": "2500",
+                        "streak": "0",
+                        "imagepath": "EmpireDefenseTR2.png",
+                        "name": "Citation For Bravery"
+                     },
+                     {
+                        "empire": "TR",
+                        "level": "3",
+                        "counters": "5000",
+                        "streak": "0",
+                        "imagepath": "EmpireDefenseTR3.png",
+                        "name": "Medal Of Combat Service"
+                     },
+                     {
+                        "empire": "TR",
+                        "level": "4",
+                        "counters": "7500",
+                        "streak": "0",
+                        "imagepath": "EmpireDefenseTR4.png",
+                        "name": "Distinguished Service Award"
+                     },
+                     {
+                        "empire": "TR",
+                        "level": "5",
+                        "counters": "10000",
+                        "streak": "0",
+                        "imagepath": "EmpireDefenseTR5.png",
+                        "name": "Order of the Terran Republic Defense"
+                     },
+                     {
+                        "empire": "TR",
+                        "level": "5",
+                        "counters": "15000",
+                        "streak": "0",
+                        "imagepath": "EmpireDefenseTR6.png",
+                        "name": "Order of the Terran Republic Defense Titanium"
+                     },
+                     {
+                        "empire": "TR",
+                        "level": "5",
+                        "counters": "30000",
+                        "streak": "0",
+                        "imagepath": "EmpireDefenseTR7.png",
+                        "name": "Order of the Terran Republic Defense Auraxium"
+                     },
+                     {
+                        "empire": "VS",
+                        "level": "1",
+                        "counters": "1000",
+                        "streak": "0",
+                        "imagepath": "EmpireDefenseVS1.png",
+                        "name": "Combat Initiation"
+                     },
+                     {
+                        "empire": "VS",
+                        "level": "2",
+                        "counters": "2500",
+                        "streak": "0",
+                        "imagepath": "EmpireDefenseVS2.png",
+                        "name": "Citation For Bravery"
+                     },
+                     {
+                        "empire": "VS",
+                        "level": "3",
+                        "counters": "5000",
+                        "streak": "0",
+                        "imagepath": "EmpireDefenseVS3.png",
+                        "name": "Medal Of Combat Service"
+                     },
+                     {
+                        "empire": "VS",
+                        "level": "4",
+                        "counters": "7500",
+                        "streak": "0",
+                        "imagepath": "EmpireDefenseVS4.png",
+                        "name": "Distitnguished Service Award"
+                     },
+                     {
+                        "empire": "VS",
+                        "level": "5",
+                        "counters": "10000",
+                        "streak": "0",
+                        "imagepath": "EmpireDefenseVS5.png",
+                        "name": "Order of the Vanu Sovereignty Defense"
+                     },
+                     {
+                        "empire": "VS",
+                        "level": "5",
+                        "counters": "15000",
+                        "streak": "0",
+                        "imagepath": "EmpireDefenseVS6.png",
+                        "name": "Order of the Vanu Sovereignty Defense Titanium"
+                     },
+                     {
+                        "empire": "VS",
+                        "level": "5",
+                        "counters": "30000",
+                        "streak": "0",
+                        "imagepath": "EmpireDefenseVS7.png",
+                        "name": "Order of the Vanu Sovereignty Defense Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "Killin bitches",
+                  "name": "Empire Defense",
+                  "_type": "Citation"
+               }
+            ]
+         },
+         {
+            "name": "Exclusive",
+            "Group": [
+               {
+                  "GroupDescription": "",
+                  "name": "Award"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "imagepath": "",
+                        "name": "Black Ops Mercenary"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Event"
+               },
+               {
+                  "GroupDescription": "",
+                  "name": "Fan-Fairre"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "imagepath": "",
+                        "name": "Ball and Chain (Male)"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "imagepath": "",
+                        "name": "Ball and Chain (Female)"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "imagepath": "",
+                        "name": "Holiday Gingerbread Men"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "imagepath": "",
+                        "name": "Holiday Snowmen"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "imagepath": "",
+                        "name": "Holiday Spirit Of Youth"
+                     },
+                     {
+                        "empire": "NC",
+                        "level": "1",
+                        "imagepath": "",
+                        "name": "Halloween Assassin"
+                     },
+                     {
+                        "empire": "TR",
+                        "level": "1",
+                        "imagepath": "",
+                        "name": "Halloween Assassin"
+                     },
+                     {
+                        "empire": "VS",
+                        "level": "1",
+                        "imagepath": "",
+                        "name": "Halloween Assassin"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Holiday"
+               }
+            ]
+         },
+         {
+            "name": "Expedition",
+            "Group": [
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "200",
+                        "streak": "2",
+                        "imagepath": "AirCombatAce1.png",
+                        "name": "Air Combat Ace Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "400",
+                        "streak": "3",
+                        "imagepath": "AirCombatAce2.png",
+                        "name": "Air Combat Ace Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "800",
+                        "streak": "4",
+                        "imagepath": "AirCombatAce3.png",
+                        "name": "Air Combat Ace Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "1200",
+                        "streak": "5",
+                        "imagepath": "AirCombatAce4.png",
+                        "name": "Air Combat Ace Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "1700",
+                        "streak": "8",
+                        "imagepath": "AirCombatAce5.png",
+                        "name": "Air Combat Ace Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "2500",
+                        "streak": "10",
+                        "imagepath": "AirCombatAce6.png",
+                        "name": "Air Combat Ace Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "4000",
+                        "streak": "12",
+                        "imagepath": "AirCombatAce7.png",
+                        "name": "Air Combat Ace Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "Shoot planes down",
+                  "name": "Air Combat Ace",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "350",
+                        "streak": "2",
+                        "imagepath": "AirDefender1.png",
+                        "name": "Air Defender Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "700",
+                        "streak": "3",
+                        "imagepath": "AirDefender2.png",
+                        "name": "Air Defender Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "1200",
+                        "streak": "4",
+                        "imagepath": "AirDefender3.png",
+                        "name": "Air Defender Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "2000",
+                        "streak": "5",
+                        "imagepath": "AirDefender4.png",
+                        "name": "Air Defender Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "3000",
+                        "streak": "8",
+                        "imagepath": "AirDefender5.png",
+                        "name": "Air Defender Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "5000",
+                        "streak": "10",
+                        "imagepath": "AirDefender6.png",
+                        "name": "Air Defender Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "7500",
+                        "streak": "12",
+                        "imagepath": "AirDefender7.png",
+                        "name": "Air Defender Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "Shoot planes down",
+                  "name": "Air Defender",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "35",
+                        "streak": "0",
+                        "imagepath": "BFRBuster1.png",
+                        "name": "BFR Buster Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "100",
+                        "streak": "2",
+                        "imagepath": "BFRBuster2.png",
+                        "name": "BFR Buster Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "200",
+                        "streak": "2",
+                        "imagepath": "BFRBuster3.png",
+                        "name": "BFR Buster Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "350",
+                        "streak": "2",
+                        "imagepath": "BFRBuster4.png",
+                        "name": "BFR Buster Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "500",
+                        "streak": "3",
+                        "imagepath": "BFRBuster5.png",
+                        "name": "BFR Buster Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "750",
+                        "streak": "4",
+                        "imagepath": "BFRBuster6.png",
+                        "name": "BFR Buster Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "1000",
+                        "streak": "5",
+                        "imagepath": "BFRBuster7.png",
+                        "name": "BFR Buster Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "Gaybot Killer",
+                  "name": "BFR Buster",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "1",
+                        "streak": "0",
+                        "imagepath": "BlackOpsHunter1.png",
+                        "name": "BFR Buster Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "10",
+                        "streak": "0",
+                        "imagepath": "BlackOpsHunter2.png",
+                        "name": "BFR Buster Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "30",
+                        "streak": "0",
+                        "imagepath": "BlackOpsHunter3.png",
+                        "name": "BFR Buster Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "100",
+                        "streak": "0",
+                        "imagepath": "BlackOpsHunter4.png",
+                        "name": "BFR Buster Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "300",
+                        "streak": "0",
+                        "imagepath": "BlackOpsHunter5.png",
+                        "name": "BFR Buster Platinum"
+                     }
+                  ],
+                  "GroupDescription": "Gaybot Killer",
+                  "name": "Black Ops Hunter",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "250",
+                        "streak": "2",
+                        "imagepath": "Engineering1.png",
+                        "name": "Engineering Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "500",
+                        "streak": "3",
+                        "imagepath": "Engineering2.png",
+                        "name": "Engineering Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "1000",
+                        "streak": "5",
+                        "imagepath": "Engineering3.png",
+                        "name": "Engineering Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "1500",
+                        "streak": "7",
+                        "imagepath": "Engineering4.png",
+                        "name": "Engineering Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "2500",
+                        "streak": "8",
+                        "imagepath": "Engineering5.png",
+                        "name": "Engineering Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "4000",
+                        "streak": "10",
+                        "imagepath": "Engineering6.png",
+                        "name": "Engineering Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Engineering",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "imagepath": "Exploration.png",
+                        "name": "Exploration"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Exploration",
+                  "_type": "Citation"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "50",
+                        "streak": "0",
+                        "imagepath": "Jacking1.png",
+                        "name": "Jacking Basic"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "100",
+                        "streak": "2",
+                        "imagepath": "Jacking2.png",
+                        "name": "Jacking Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "255",
+                        "streak": "3",
+                        "imagepath": "Jacking3.png",
+                        "name": "Jacking Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "500",
+                        "streak": "4",
+                        "imagepath": "Jacking4.png",
+                        "name": "Jacking Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "1000",
+                        "streak": "5",
+                        "imagepath": "Jacking5.png",
+                        "name": "Jacking Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "2500",
+                        "streak": "6",
+                        "imagepath": "Jacking6.png",
+                        "name": "Jacking Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "5000",
+                        "streak": "8",
+                        "imagepath": "Jacking7.png",
+                        "name": "Jacking Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Jacking",
+                  "_type": "Support"
+               },
+               {
+                  "GroupDescription": "",
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "250",
+                        "streak": "2",
+                        "imagepath": "MaxBuster1.png",
+                        "name": "MAX Buster Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "400",
+                        "streak": "4",
+                        "imagepath": "MaxBuster2.png",
+                        "name": "MAX Buster Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "600",
+                        "streak": "6",
+                        "imagepath": "MaxBuster3.png",
+                        "name": "MAX Buster Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "900",
+                        "streak": "6",
+                        "imagepath": "MaxBuster4.png",
+                        "name": "MAX Buster Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "1400",
+                        "streak": "6",
+                        "imagepath": "MaxBuster5.png",
+                        "name": "MAX Buster Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "2000",
+                        "streak": "6",
+                        "imagepath": "MaxBuster6.png",
+                        "name": "MAX BusterAuraxium"
+                     }
+                  ],
+                  "name": "MAX Buster",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "50",
+                        "streak": "0",
+                        "imagepath": "SupplyBlockade1.png",
+                        "name": "Supply Blockade Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "100",
+                        "streak": "0",
+                        "imagepath": "SupplyBlockade2.png",
+                        "name": "Supply Blockade Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "175",
+                        "streak": "0",
+                        "imagepath": "SupplyBlockade3.png",
+                        "name": "Supply Blockade Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "250",
+                        "streak": "0",
+                        "imagepath": "SupplyBlockade4.png",
+                        "name": "Supply Blockade Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "350",
+                        "streak": "0",
+                        "imagepath": "SupplyBlockade5.png",
+                        "name": "Supply Blockade Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "600",
+                        "streak": "2",
+                        "imagepath": "SupplyBlockade6.png",
+                        "name": "Supply Blockade Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "1000",
+                        "streak": "4",
+                        "imagepath": "SupplyBlockade7.png",
+                        "name": "Supply Blockade Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Supply Blockade",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "50",
+                        "streak": "0",
+                        "imagepath": "TankBuster1.png",
+                        "name": "Tank Buster Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "125",
+                        "streak": "0",
+                        "imagepath": "TankBuster2.png",
+                        "name": "Tank Buster Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "225",
+                        "streak": "0",
+                        "imagepath": "TankBuster3.png",
+                        "name": "Tank Buster Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "350",
+                        "streak": "0",
+                        "imagepath": "TankBuster4.png",
+                        "name": "Tank Buster Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "500",
+                        "streak": "0",
+                        "imagepath": "TankBuster5.png",
+                        "name": "Tank Buster Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "750",
+                        "streak": "3",
+                        "imagepath": "TankBuster6.png",
+                        "name": "Tank Buster Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "1250",
+                        "streak": "5",
+                        "imagepath": "TankBuster7.png",
+                        "name": "Tank Buster Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Tank Buster",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "50",
+                        "streak": "0",
+                        "imagepath": "TransportBlockade1.png",
+                        "name": "Transport Blockade Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "100",
+                        "streak": "0",
+                        "imagepath": "TransportBlockade2.png",
+                        "name": "Transport Blockade Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "150",
+                        "streak": "0",
+                        "imagepath": "TransportBlockade3.png",
+                        "name": "Transport Blockade Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "200",
+                        "streak": "0",
+                        "imagepath": "TransportBlockade4.png",
+                        "name": "Transport Blockade Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "250",
+                        "streak": "0",
+                        "imagepath": "TransportBlockade5.png",
+                        "name": "Transport Blockade Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "350",
+                        "streak": "3",
+                        "imagepath": "TransportBlockade6.png",
+                        "name": "Transport Blockade Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "500",
+                        "streak": "5",
+                        "imagepath": "TransportBlockade7.png",
+                        "name": "Transport Blockade Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "Deli's, Sundy's and such",
+                  "name": "Transport Blockade",
+                  "_type": "Combat"
+               }
+            ]
+         },
+         {
+            "name": "Support",
+            "Group": [
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "300",
+                        "streak": "0",
+                        "imagepath": "AMS1.png",
+                        "name": "AMS Support Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "600",
+                        "streak": "0",
+                        "imagepath": "AMS2.png",
+                        "name": "AMS Support Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "1200",
+                        "streak": "0",
+                        "imagepath": "AMS3.png",
+                        "name": "AMS Support Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "2500",
+                        "streak": "0",
+                        "imagepath": "AMS4.png",
+                        "name": "AMS Support Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "5000",
+                        "streak": "0",
+                        "imagepath": "AMS5.png",
+                        "name": "AMS Support Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "7500",
+                        "streak": "0",
+                        "imagepath": "AMS6.png",
+                        "name": "AMS Support Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "10000",
+                        "streak": "0",
+                        "imagepath": "AMS7.png",
+                        "name": "AMS Support Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "Mr Helper",
+                  "name": "AMS Support",
+                  "_type": "Support"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "35",
+                        "streak": "0",
+                        "imagepath": "CombatMedic1.png",
+                        "name": "Combat Medic Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "85",
+                        "streak": "0",
+                        "imagepath": "CombatMedic2.png",
+                        "name": "Combat Medic Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "185",
+                        "streak": "0",
+                        "imagepath": "CombatMedic3.png",
+                        "name": "Combat Medic Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "400",
+                        "streak": "0",
+                        "imagepath": "CombatMedic4.png",
+                        "name": "Combat Medic Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "650",
+                        "streak": "0",
+                        "imagepath": "CombatMedic5.png",
+                        "name": "Combat Medic Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "1500",
+                        "streak": "0",
+                        "imagepath": "CombatMedic6.png",
+                        "name": "Combat Medic Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "3000",
+                        "streak": "0",
+                        "imagepath": "CombatMedic7.png",
+                        "name": "Combat Medic Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Combat Medic",
+                  "_type": "Support"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "15",
+                        "streak": "0",
+                        "imagepath": "CombatResus1.png",
+                        "name": "Combat Resuscitation Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "40",
+                        "streak": "0",
+                        "imagepath": "CombatResus2.png",
+                        "name": "Combat Resuscitation Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "100",
+                        "streak": "0",
+                        "imagepath": "CombatResus3.png",
+                        "name": "Combat Resuscitation Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "225",
+                        "streak": "0",
+                        "imagepath": "CombatResus4.png",
+                        "name": "Combat Resuscitation Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "600",
+                        "streak": "0",
+                        "imagepath": "CombatResus5.png",
+                        "name": "Combat Resuscitation Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "1000",
+                        "streak": "0",
+                        "imagepath": "CombatResus6.png",
+                        "name": "Combat Resuscitation Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "2000",
+                        "streak": "0",
+                        "imagepath": "CombatResus7.png",
+                        "name": "Combat Resuscitation Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Combat Resuscitation",
+                  "_type": "Support"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "100",
+                        "streak": "0",
+                        "imagepath": "EquipmentSupport1.png",
+                        "name": "Equipment Support Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "250",
+                        "streak": "0",
+                        "imagepath": "EquipmentSupport2.png",
+                        "name": "Equipment Support Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "600",
+                        "streak": "0",
+                        "imagepath": "EquipmentSupport3.png",
+                        "name": "Equipment Support Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "1000",
+                        "streak": "0",
+                        "imagepath": "EquipmentSupport4.png",
+                        "name": "Equipment Support Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "2000",
+                        "streak": "0",
+                        "imagepath": "EquipmentSupport5.png",
+                        "name": "Equipment Support Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "3500",
+                        "streak": "0",
+                        "imagepath": "EquipmentSupport6.png",
+                        "name": "Equipment Support Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "5000",
+                        "streak": "0",
+                        "imagepath": "EquipmentSupport7.png",
+                        "name": "Equipment Support Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Equipment Support",
+                  "_type": "Support"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "75",
+                        "streak": "0",
+                        "imagepath": "GalaxySupportPilot1.png",
+                        "name": "Galaxy Support Pilot Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "150",
+                        "streak": "0",
+                        "imagepath": "GalaxySupportPilot2.png",
+                        "name": "Galaxy Support Pilot Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "450",
+                        "streak": "0",
+                        "imagepath": "GalaxySupportPilot3.png",
+                        "name": "Galaxy Support Pilot Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "900",
+                        "streak": "0",
+                        "imagepath": "GalaxySupportPilot4.png",
+                        "name": "Galaxy Support Pilot Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "2000",
+                        "streak": "0",
+                        "imagepath": "GalaxySupportPilot5.png",
+                        "name": "Galaxy Support Pilot Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "3500",
+                        "streak": "0",
+                        "imagepath": "GalaxySupportPilot6.png",
+                        "name": "Galaxy Support Pilot Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "5000",
+                        "streak": "0",
+                        "imagepath": "GalaxySupportPilot7.png",
+                        "name": "Galaxy Support Pilot Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Galaxy Support Pilot",
+                  "_type": "Support"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "50",
+                        "streak": "0",
+                        "imagepath": "HackingSupport1.png",
+                        "name": "Hacking Support Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "125",
+                        "streak": "0",
+                        "imagepath": "HackingSupport2.png",
+                        "name": "Hacking Support Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "300",
+                        "streak": "0",
+                        "imagepath": "HackingSupport3.png",
+                        "name": "Hacking Support Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "650",
+                        "streak": "0",
+                        "imagepath": "HackingSupport4.png",
+                        "name": "Hacking Support Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "1000",
+                        "streak": "0",
+                        "imagepath": "HackingSupport5.png",
+                        "name": "Hacking Support Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "2500",
+                        "streak": "0",
+                        "imagepath": "HackingSupport6.png",
+                        "name": "Hacking Support Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "4000",
+                        "streak": "0",
+                        "imagepath": "HackingSupport7.png",
+                        "name": "Hacking Support Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Hacking Support",
+                  "_type": "Support"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "imagepath": "HackingSupportSpecialist.png",
+                        "name": "Hacking Support Specialist"
+                     }
+                  ],
+                  "name": "Hacking Support",
+                  "_type": "Support"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "75",
+                        "streak": "0",
+                        "imagepath": "InfantryArmorSupport1.png",
+                        "name": "Infantry Armor Support Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "175",
+                        "streak": "0",
+                        "imagepath": "InfantryArmorSupport2.png",
+                        "name": "Infantry Armor Support Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "350",
+                        "streak": "0",
+                        "imagepath": "InfantryArmorSupport3.png",
+                        "name": "Infantry Armor Support Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "700",
+                        "streak": "0",
+                        "imagepath": "InfantryArmorSupport4.png",
+                        "name": "Infantry Armor Support Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "1250",
+                        "streak": "0",
+                        "imagepath": "InfantryArmorSupport5.png",
+                        "name": "Infantry Armor Support Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "3000",
+                        "streak": "0",
+                        "imagepath": "InfantryArmorSupport6.png",
+                        "name": "Infantry Armor Support Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "4500",
+                        "streak": "0",
+                        "imagepath": "InfantryArmorSupport7.png",
+                        "name": "Infantry Armor Support Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Infantry Armor Support",
+                  "_type": "Support"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "15",
+                        "streak": "0",
+                        "imagepath": "LockerHacker1.png",
+                        "name": "Locker Hacker Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "35",
+                        "streak": "0",
+                        "imagepath": "LockerHacker2.png",
+                        "name": "Locker Hacker Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "75",
+                        "streak": "0",
+                        "imagepath": "LockerHacker3.png",
+                        "name": "Locker Hacker Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "200",
+                        "streak": "0",
+                        "imagepath": "LockerHacker4.png",
+                        "name": "Locker Hacker Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "400",
+                        "streak": "0",
+                        "imagepath": "LockerHacker5.png",
+                        "name": "Locker Hacker Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "650",
+                        "streak": "0",
+                        "imagepath": "LockerHacker6.png",
+                        "name": "Locker Hacker Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "900",
+                        "streak": "0",
+                        "imagepath": "LockerHacker7.png",
+                        "name": "Locker Hacker Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Locker Hacker",
+                  "_type": "Support"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "75",
+                        "streak": "0",
+                        "imagepath": "LodestarSupport1.png",
+                        "name": "Lodestar Support Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "200",
+                        "streak": "0",
+                        "imagepath": "LodestarSupport2.png",
+                        "name": "Lodestar Support Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "450",
+                        "streak": "0",
+                        "imagepath": "LodestarSupport3.png",
+                        "name": "Lodestar Support Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "750",
+                        "streak": "0",
+                        "imagepath": "LodestarSupport4.png",
+                        "name": "Lodestar Support Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "1500",
+                        "streak": "0",
+                        "imagepath": "LodestarSupport5.png",
+                        "name": "Lodestar Support Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "3000",
+                        "streak": "0",
+                        "imagepath": "LodestarSupport6.png",
+                        "name": "Lodestar Support Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "4500",
+                        "streak": "0",
+                        "imagepath": "LodestarSupport7.png",
+                        "name": "Lodestar Support Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Lodestar Support",
+                  "_type": "Support"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "50",
+                        "streak": "0",
+                        "imagepath": "ResusMedic1.png",
+                        "name": "Resuscitation Medic Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "100",
+                        "streak": "2",
+                        "imagepath": "ResusMedic2.png",
+                        "name": "Resuscitation Medic Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "250",
+                        "streak": "3",
+                        "imagepath": "ResusMedic3.png",
+                        "name": "Resuscitation Medic Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "500",
+                        "streak": "4",
+                        "imagepath": "ResusMedic4.png",
+                        "name": "Resuscitation Medic Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "1000",
+                        "streak": "5",
+                        "imagepath": "ResusMedic5.png",
+                        "name": "Resuscitation Medic Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "2000",
+                        "streak": "0",
+                        "imagepath": "ResusMedic6.png",
+                        "name": "Resuscitation Medic Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "3000",
+                        "streak": "0",
+                        "imagepath": "ResusMedic7.png",
+                        "name": "Resuscitation Medic Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Resuscitation Medic",
+                  "_type": "Support"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "100",
+                        "streak": "0",
+                        "imagepath": "RouterSupport1.png",
+                        "name": "Router Support Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "250",
+                        "streak": "0",
+                        "imagepath": "RouterSupport2.png",
+                        "name": "Router Support Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "500",
+                        "streak": "0",
+                        "imagepath": "RouterSupport3.png",
+                        "name": "Router Support Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "1000",
+                        "streak": "0",
+                        "imagepath": "RouterSupport4.png",
+                        "name": "Router Support Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "2000",
+                        "streak": "0",
+                        "imagepath": "RouterSupport5.png",
+                        "name": "Router Support Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "5000",
+                        "streak": "0",
+                        "imagepath": "RouterSupport6.png",
+                        "name": "Router Support Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "7500",
+                        "streak": "0",
+                        "imagepath": "RouterSupport7.png",
+                        "name": "Router Support Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "RouterSupport",
+                  "_type": "Support"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "100",
+                        "streak": "0",
+                        "imagepath": "TelepadDeployment1.png",
+                        "name": "Telepad Deployment Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "250",
+                        "streak": "0",
+                        "imagepath": "TelepadDeployment2.png",
+                        "name": "Telepad Deployment Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "500",
+                        "streak": "0",
+                        "imagepath": "TelepadDeployment3.png",
+                        "name": "Telepad Deployment Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "1000",
+                        "streak": "0",
+                        "imagepath": "TelepadDeployment4.png",
+                        "name": "Telepad Deployment Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "2000",
+                        "streak": "0",
+                        "imagepath": "TelepadDeployment5.png",
+                        "name": "Telepad Deployment Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "3500",
+                        "streak": "0",
+                        "imagepath": "TelepadDeployment6.png",
+                        "name": "Telepad Deployment Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "7000",
+                        "streak": "0",
+                        "imagepath": "TelepadDeployment7.png",
+                        "name": "Telepad Deployment Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Telepad Deployment",
+                  "_type": "Support"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "15",
+                        "streak": "0",
+                        "imagepath": "TinyRobotics1.png",
+                        "name": "Tiny Robotics Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "35",
+                        "streak": "0",
+                        "imagepath": "TinyRobotics2.png",
+                        "name": "Tiny Robotics Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "75",
+                        "streak": "0",
+                        "imagepath": "TinyRobotics3.png",
+                        "name": "Tiny Robotics Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "200",
+                        "streak": "0",
+                        "imagepath": "TinyRobotics4.png",
+                        "name": "Tiny Robotics Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "400",
+                        "streak": "0",
+                        "imagepath": "TinyRobotics5.png",
+                        "name": "Tiny Robotics Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "400",
+                        "streak": "0",
+                        "imagepath": "TinyRobotics6.png",
+                        "name": "Tiny Robotics Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "400",
+                        "streak": "0",
+                        "imagepath": "TinyRobotics7.png",
+                        "name": "Tiny Robotics Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "Fix your lil buddies!",
+                  "name": "Tiny Robotics",
+                  "_type": "Support"
+               }
+            ]
+         },
+         {
+            "name": "Vehicular",
+            "Group": [
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "100",
+                        "streak": "15",
+                        "imagepath": "AdvancedBFR1.png",
+                        "name": "Advanced BFR"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "100",
+                        "streak": "15",
+                        "imagepath": "AdvancedBFR2.png",
+                        "name": "Advanced BFR"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "100",
+                        "streak": "15",
+                        "imagepath": "AdvancedBFR3.png",
+                        "name": "Advanced BFR"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "100",
+                        "streak": "15",
+                        "imagepath": "AdvancedBFR4.png",
+                        "name": "Advanced BFR"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "100",
+                        "streak": "15",
+                        "imagepath": "AdvancedBFR5.png",
+                        "name": "Advanced BFR"
+                     }
+                  ],
+                  "GroupDescription": "Advanced gheyness",
+                  "name": "Advanced BFR",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "200",
+                        "streak": "2",
+                        "imagepath": "AirCombatAce1.png",
+                        "name": "Air Combat Ace Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "400",
+                        "streak": "3",
+                        "imagepath": "AirCombatAce2.png",
+                        "name": "Air Combat Ace Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "800",
+                        "streak": "4",
+                        "imagepath": "AirCombatAce3.png",
+                        "name": "Air Combat Ace Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "1200",
+                        "streak": "5",
+                        "imagepath": "AirCombatAce4.png",
+                        "name": "Air Combat Ace Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "1700",
+                        "streak": "8",
+                        "imagepath": "AirCombatAce5.png",
+                        "name": "Air Combat Ace Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "2500",
+                        "streak": "10",
+                        "imagepath": "AirCombatAce6.png",
+                        "name": "Air Combat Ace Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "4000",
+                        "streak": "12",
+                        "imagepath": "AirCombatAce7.png",
+                        "name": "Air Combat Ace Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "Shoot other planes down",
+                  "name": "Air Combat Ace",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "200",
+                        "streak": "2",
+                        "imagepath": "Bombardier1.png",
+                        "name": "Bombardier Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "400",
+                        "streak": "4",
+                        "imagepath": "Bombardier2.png",
+                        "name": "Bombardier Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "700",
+                        "streak": "6",
+                        "imagepath": "Bombardier3.png",
+                        "name": "Bombardier Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "1200",
+                        "streak": "8",
+                        "imagepath": "Bombardier4.png",
+                        "name": "Bombardier Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "2000",
+                        "streak": "10",
+                        "imagepath": "Bombardier5.png",
+                        "name": "Bombardier Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "3500",
+                        "streak": "12",
+                        "imagepath": "Bombardier6.png",
+                        "name": "Bombardier Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "6000",
+                        "streak": "15",
+                        "imagepath": "Bombardier7.png",
+                        "name": "Bombardier Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Bombardier",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "200",
+                        "streak": "2",
+                        "imagepath": "BomberAce1.png",
+                        "name": "Bomber Ace Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "400",
+                        "streak": "4",
+                        "imagepath": "BomberAce2.png",
+                        "name": "Bomber Ace Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "700",
+                        "streak": "6",
+                        "imagepath": "BomberAce3.png",
+                        "name": "Bomber Ace Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "1200",
+                        "streak": "8",
+                        "imagepath": "BomberAce4.png",
+                        "name": "Bomber Ace Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "2000",
+                        "streak": "10",
+                        "imagepath": "BomberAce5.png",
+                        "name": "Bomber Ace Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "3500",
+                        "streak": "12",
+                        "imagepath": "BomberAce6.png",
+                        "name": "Bomber Ace Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "6000",
+                        "streak": "15",
+                        "imagepath": "BomberAce7.png",
+                        "name": "Bomber Ace Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Bomber Ace",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "400",
+                        "streak": "2",
+                        "imagepath": "CavalryDriver1.png",
+                        "name": "Cavalry Driver Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "800",
+                        "streak": "3",
+                        "imagepath": "CavalryDriver2.png",
+                        "name": "Cavalry Driver Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "1200",
+                        "streak": "4",
+                        "imagepath": "CavalryDriver3.png",
+                        "name": "Cavalry Driver Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "1600",
+                        "streak": "5",
+                        "imagepath": "CavalryDriver4.png",
+                        "name": "Cavalry Driver Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "2000",
+                        "streak": "8",
+                        "imagepath": "CavalryDriver5.png",
+                        "name": "Cavalry Driver Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "4000",
+                        "streak": "12",
+                        "imagepath": "CavalryDriver6.png",
+                        "name": "Cavalry Driver Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "6000",
+                        "streak": "15",
+                        "imagepath": "CavalryDriver7.png",
+                        "name": "Cavalry Driver Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Cavalry Driver",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "400",
+                        "streak": "2",
+                        "imagepath": "CavalryPilot1.png",
+                        "name": "Cavalry Pilot Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "800",
+                        "streak": "3",
+                        "imagepath": "CavalryPilot2.png",
+                        "name": "Cavalry Pilot Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "1500",
+                        "streak": "4",
+                        "imagepath": "CavalryPilot3.png",
+                        "name": "Cavalry Pilot Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "2500",
+                        "streak": "5",
+                        "imagepath": "CavalryPilot4.png",
+                        "name": "Cavalry Pilot Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "4000",
+                        "streak": "8",
+                        "imagepath": "CavalryPilot5.png",
+                        "name": "Cavalry Pilot Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "6000",
+                        "streak": "10",
+                        "imagepath": "CavalryPilot6.png",
+                        "name": "Cavalry Pilot Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "8000",
+                        "streak": "12",
+                        "imagepath": "CavalryPilot7.png",
+                        "name": "Cavalry Pilot Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Cavalry Pilot",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "400",
+                        "streak": "2",
+                        "imagepath": "DriverGunnery1.png",
+                        "name": "Driver Gunnery Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "800",
+                        "streak": "3",
+                        "imagepath": "DriverGunnery2.png",
+                        "name": "Driver Gunnery Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "1200",
+                        "streak": "4",
+                        "imagepath": "DriverGunnery3.png",
+                        "name": "Driver Gunnery Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "1600",
+                        "streak": "5",
+                        "imagepath": "DriverGunnery4.png",
+                        "name": "Driver Gunnery Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "2000",
+                        "streak": "8",
+                        "imagepath": "DriverGunnery5.png",
+                        "name": "Driver Gunnery Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "4000",
+                        "streak": "12",
+                        "imagepath": "DriverGunnery6.png",
+                        "name": "Driver Gunnery Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "6000",
+                        "streak": "15",
+                        "imagepath": "DriverGunnery7.png",
+                        "name": "Driver Gunnery Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Driver Gunnery",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "400",
+                        "streak": "2",
+                        "imagepath": "GroundGunner1.png",
+                        "name": "Ground Gunner Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "800",
+                        "streak": "3",
+                        "imagepath": "GroundGunner2.png",
+                        "name": "Ground Gunner Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "1200",
+                        "streak": "4",
+                        "imagepath": "GroundGunner3.png",
+                        "name": "Ground Gunner Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "1600",
+                        "streak": "5",
+                        "imagepath": "GroundGunner4.png",
+                        "name": "Ground Gunner Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "2000",
+                        "streak": "8",
+                        "imagepath": "GroundGunner5.png",
+                        "name": "Ground Gunner Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "4000",
+                        "streak": "12",
+                        "imagepath": "GroundGunner6.png",
+                        "name": "Ground Gunner Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "6000",
+                        "streak": "15",
+                        "imagepath": "GroundGunner7.png",
+                        "name": "Ground Gunner Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Ground Gunner",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "50",
+                        "streak": "0",
+                        "imagepath": "TransportationCitation1.png",
+                        "name": "Transportation Citation I"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "200",
+                        "streak": "3",
+                        "imagepath": "TransportationCitation2.png",
+                        "name": "Transportation Citation II"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "1000",
+                        "streak": "6",
+                        "imagepath": "TransportationCitation3.png",
+                        "name": "Transportation Citation III"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "1750",
+                        "streak": "8",
+                        "imagepath": "TransportationCitation4.png",
+                        "name": "Transportation Citation IV"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "3000",
+                        "streak": "10",
+                        "imagepath": "TransportationCitation5.png",
+                        "name": "Transportation Citation V"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Transportation Citation",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "50",
+                        "streak": "2",
+                        "imagepath": "TurretGunner1.png",
+                        "name": "Turret Gunner Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "100",
+                        "streak": "2",
+                        "imagepath": "TurretGunner2.png",
+                        "name": "Turret Gunner Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "200",
+                        "streak": "3",
+                        "imagepath": "TurretGunner3.png",
+                        "name": "Turret Gunner Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "350",
+                        "streak": "4",
+                        "imagepath": "TurretGunner4.png",
+                        "name": "Turret Gunner Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "500",
+                        "streak": "6",
+                        "imagepath": "TurretGunner5.png",
+                        "name": "Turret Gunner Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "700",
+                        "streak": "8",
+                        "imagepath": "TurretGunner6.png",
+                        "name": "Turret Gunner Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "1000",
+                        "streak": "10",
+                        "imagepath": "TurretGunner7.png",
+                        "name": "Turret Gunner Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Turret Gunner",
+                  "_type": "Combat"
+               }
+            ]
+         },
+         {
+            "name": "Weaponry",
+            "Group": [
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "200",
+                        "streak": "2",
+                        "imagepath": "AntiArmor1.png",
+                        "name": "Anti-Armor Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "400",
+                        "streak": "3",
+                        "imagepath": "AntiArmor2.png",
+                        "name": "Anti-Armor Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "700",
+                        "streak": "4",
+                        "imagepath": "AntiArmor3.png",
+                        "name": "Anti-Armor Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "1200",
+                        "streak": "5",
+                        "imagepath": "AntiArmor4.png",
+                        "name": "Anti-Armor Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "2000",
+                        "streak": "8",
+                        "imagepath": "AntiArmor5.png",
+                        "name": "Anti-Armor Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "4000",
+                        "streak": "12",
+                        "imagepath": "AntiArmor6.png",
+                        "name": "Anti-Armor Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "6000",
+                        "streak": "16",
+                        "imagepath": "AntiArmor7.png",
+                        "name": "Anti-Armor Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "Strikers and such",
+                  "name": "Anti-Armor",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "100",
+                        "streak": "2",
+                        "imagepath": "BasicWeapons1.png",
+                        "name": "Basic Weapons Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "200",
+                        "streak": "3",
+                        "imagepath": "BasicWeapons2.png",
+                        "name": "Basic Weapons Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "300",
+                        "streak": "4",
+                        "imagepath": "BasicWeapons3.png",
+                        "name": "Basic Weapons Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "400",
+                        "streak": "5",
+                        "imagepath": "BasicWeapons4.png",
+                        "name": "Basic Weapons Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "500",
+                        "streak": "6",
+                        "imagepath": "BasicWeapons5.png",
+                        "name": "Basic Weapons Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "750",
+                        "streak": "8",
+                        "imagepath": "BasicWeapons6.png",
+                        "name": "Basic Weapons Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "1500",
+                        "streak": "10",
+                        "imagepath": "BasicWeapons7.png",
+                        "name": "Basic Weapons Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Basic Weapons",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "5",
+                        "streak": "0",
+                        "imagepath": "EliteAssault1.png",
+                        "name": "Elite Assault Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "200",
+                        "streak": "2",
+                        "imagepath": "EliteAssault2.png",
+                        "name": "Elite Assault Basic"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "400",
+                        "streak": "3",
+                        "imagepath": "EliteAssault3.png",
+                        "name": "Elite Assault Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "700",
+                        "streak": "4",
+                        "imagepath": "EliteAssault4.png",
+                        "name": "Elite Assault Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "1200",
+                        "streak": "5",
+                        "imagepath": "EliteAssault5.png",
+                        "name": "Elite Assault Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "2000",
+                        "streak": "8",
+                        "imagepath": "EliteAssault6.png",
+                        "name": "Elite Assault Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "3000",
+                        "streak": "10",
+                        "imagepath": "EliteAssault7.png",
+                        "name": "Elite Assault Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "8",
+                        "counters": "5000",
+                        "streak": "12",
+                        "imagepath": "EliteAssault8.png",
+                        "name": "Elite Assault Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Elite Assault",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "300",
+                        "streak": "2",
+                        "imagepath": "Grenadier1.png",
+                        "name": "Grenadier Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "600",
+                        "streak": "3",
+                        "imagepath": "Grenadier2.png",
+                        "name": "Grenadier Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "900",
+                        "streak": "4",
+                        "imagepath": "Grenadier3.png",
+                        "name": "Grenadier Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "1400",
+                        "streak": "6",
+                        "imagepath": "Grenadier4.png",
+                        "name": "Grenadier Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "2000",
+                        "streak": "8",
+                        "imagepath": "Grenadier5.png",
+                        "name": "Grenadier Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "3000",
+                        "streak": "9",
+                        "imagepath": "Grenadier6.png",
+                        "name": "Grenadier Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "5000",
+                        "streak": "10",
+                        "imagepath": "Grenadier7.png",
+                        "name": "Grenadier Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Grenadier",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "100",
+                        "streak": "2",
+                        "imagepath": "HandToHand1.png",
+                        "name": "Hand-to-Hand Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "200",
+                        "streak": "2",
+                        "imagepath": "HandToHand2.png",
+                        "name": "Hand-to-Hand Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "400",
+                        "streak": "3",
+                        "imagepath": "HandToHand3.png",
+                        "name": "Hand-to-Hand Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "600",
+                        "streak": "4",
+                        "imagepath": "HandToHand4.png",
+                        "name": "Hand-to-Hand Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "1000",
+                        "streak": "5",
+                        "imagepath": "HandToHand5.png",
+                        "name": "Hand-to-Hand Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "1500",
+                        "streak": "6",
+                        "imagepath": "HandToHand6.png",
+                        "name": "Hand-to-Hand Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "3000",
+                        "streak": "7",
+                        "imagepath": "HandToHand7.png",
+                        "name": "Hand-to-Hand Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Hand-to-Hand",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "1000",
+                        "streak": "2",
+                        "imagepath": "HeavyWeapons1.png",
+                        "name": "Heavy Weapons Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "2000",
+                        "streak": "3",
+                        "imagepath": "HeavyWeapons2.png",
+                        "name": "Heavy Weapons Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "3500",
+                        "streak": "5",
+                        "imagepath": "HeavyWeapons3.png",
+                        "name": "Heavy Weapons Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "5500",
+                        "streak": "8",
+                        "imagepath": "HeavyWeapons4.png",
+                        "name": "Heavy Weapons Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "8000",
+                        "streak": "12",
+                        "imagepath": "HeavyWeapons5.png",
+                        "name": "Heavy Weapons Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "12000",
+                        "streak": "14",
+                        "imagepath": "HeavyWeapons6.png",
+                        "name": "Heavy Weapons Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "18000",
+                        "streak": "15",
+                        "imagepath": "HeavyWeapons7.png",
+                        "name": "Heavy Weapons Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Heavy Weapons",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "500",
+                        "streak": "2",
+                        "imagepath": "MaxOperator1.png",
+                        "name": "Max Operator Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "800",
+                        "streak": "3",
+                        "imagepath": "MaxOperator2.png",
+                        "name": "Max Operator Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "1200",
+                        "streak": "4",
+                        "imagepath": "MaxOperator3.png",
+                        "name": "Max Operator Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "1750",
+                        "streak": "5",
+                        "imagepath": "MaxOperator4.png",
+                        "name": "Max Operator Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "2500",
+                        "streak": "6",
+                        "imagepath": "MaxOperator5.png",
+                        "name": "Max Operator Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "4000",
+                        "streak": "8",
+                        "imagepath": "MaxOperator6.png",
+                        "name": "Max Operator Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Max Operator",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "400",
+                        "streak": "2",
+                        "imagepath": "Rifleman1.png",
+                        "name": "Rifleman Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "800",
+                        "streak": "3",
+                        "imagepath": "Rifleman2.png",
+                        "name": "Rifleman Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "1500",
+                        "streak": "4",
+                        "imagepath": "Rifleman3.png",
+                        "name": "Rifleman Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "2500",
+                        "streak": "5",
+                        "imagepath": "Rifleman4.png",
+                        "name": "Rifleman Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "4000",
+                        "streak": "8",
+                        "imagepath": "Rifleman5.png",
+                        "name": "Rifleman Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "6000",
+                        "streak": "10",
+                        "imagepath": "Rifleman6.png",
+                        "name": "Rifleman Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "10000",
+                        "streak": "12",
+                        "imagepath": "Rifleman7.png",
+                        "name": "Rifleman Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Rifleman",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "150",
+                        "streak": "2",
+                        "imagepath": "Saboteur1.png",
+                        "name": "Saboteur Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "300",
+                        "streak": "3",
+                        "imagepath": "Saboteur2.png",
+                        "name": "Saboteur Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "500",
+                        "streak": "5",
+                        "imagepath": "Saboteur3.png",
+                        "name": "Saboteur Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "750",
+                        "streak": "8",
+                        "imagepath": "Saboteur4.png",
+                        "name": "Saboteur Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "1500",
+                        "streak": "10",
+                        "imagepath": "Saboteur5.png",
+                        "name": "Saboteur Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "3000",
+                        "streak": "12",
+                        "imagepath": "Saboteur6.png",
+                        "name": "Saboteur Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "5000",
+                        "streak": "15",
+                        "imagepath": "Saboteur7.png",
+                        "name": "Saboteur Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Saboteur",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "NC",
+                        "level": "1",
+                        "counters": "15",
+                        "streak": "0",
+                        "imagepath": "ScavengerNC1.png",
+                        "name": "Scavenger Bronze"
+                     },
+                     {
+                        "empire": "NC",
+                        "level": "2",
+                        "counters": "100",
+                        "streak": "0",
+                        "imagepath": "ScavengerNC2.png",
+                        "name": "Scavenger Silver"
+                     },
+                     {
+                        "empire": "NC",
+                        "level": "3",
+                        "counters": "1000",
+                        "streak": "0",
+                        "imagepath": "ScavengerNC3.png",
+                        "name": "Scavenger Gold"
+                     },
+                     {
+                        "empire": "NC",
+                        "level": "4",
+                        "counters": "2000",
+                        "streak": "4",
+                        "imagepath": "ScavengerNC4.png",
+                        "name": "Scavenger Platinum"
+                     },
+                     {
+                        "empire": "NC",
+                        "level": "5",
+                        "counters": "3000",
+                        "streak": "6",
+                        "imagepath": "ScavengerNC5.png",
+                        "name": "Scavenger Titanium"
+                     },
+                     {
+                        "empire": "NC",
+                        "level": "6",
+                        "counters": "5000",
+                        "streak": "10",
+                        "imagepath": "ScavengerNC6.png",
+                        "name": "Scavenger Auraxium"
+                     },
+                     {
+                        "empire": "TR",
+                        "level": "1",
+                        "counters": "15",
+                        "streak": "0",
+                        "imagepath": "ScavengerTR1.png",
+                        "name": "Scavenger Bronze"
+                     },
+                     {
+                        "empire": "TR",
+                        "level": "2",
+                        "counters": "100",
+                        "streak": "0",
+                        "imagepath": "ScavengerTR2.png",
+                        "name": "Scavenger Silver"
+                     },
+                     {
+                        "empire": "TR",
+                        "level": "3",
+                        "counters": "1000",
+                        "streak": "0",
+                        "imagepath": "ScavengerTR3.png",
+                        "name": "Scavenger Gold"
+                     },
+                     {
+                        "empire": "TR",
+                        "level": "4",
+                        "counters": "2000",
+                        "streak": "4",
+                        "imagepath": "ScavengerTR4.png",
+                        "name": "Scavenger Platinum"
+                     },
+                     {
+                        "empire": "TR",
+                        "level": "5",
+                        "counters": "3000",
+                        "streak": "6",
+                        "imagepath": "ScavengerTR5.png",
+                        "name": "Scavenger Titanium"
+                     },
+                     {
+                        "empire": "TR",
+                        "level": "6",
+                        "counters": "5000",
+                        "streak": "10",
+                        "imagepath": "ScavengerTR6.png",
+                        "name": "Scavenger Auraxium"
+                     },
+                     {
+                        "empire": "VS",
+                        "level": "1",
+                        "counters": "15",
+                        "streak": "0",
+                        "imagepath": "ScavengerVS1.png",
+                        "name": "Scavenger Bronze"
+                     },
+                     {
+                        "empire": "VS",
+                        "level": "2",
+                        "counters": "100",
+                        "streak": "0",
+                        "imagepath": "ScavengerVS2.png",
+                        "name": "Scavenger Silver"
+                     },
+                     {
+                        "empire": "VS",
+                        "level": "3",
+                        "counters": "1000",
+                        "streak": "0",
+                        "imagepath": "ScavengerVS3.png",
+                        "name": "Scavenger Gold"
+                     },
+                     {
+                        "empire": "VS",
+                        "level": "4",
+                        "counters": "2000",
+                        "streak": "4",
+                        "imagepath": "ScavengerVS4.png",
+                        "name": "Scavenger Platinum"
+                     },
+                     {
+                        "empire": "VS",
+                        "level": "5",
+                        "counters": "3000",
+                        "streak": "6",
+                        "imagepath": "ScavengerVS5.png",
+                        "name": "Scavenger Titanium"
+                     },
+                     {
+                        "empire": "VS",
+                        "level": "6",
+                        "counters": "5000",
+                        "streak": "10",
+                        "imagepath": "ScavengerVS6.png",
+                        "name": "Scavenger Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Scavenger",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "200",
+                        "streak": "2",
+                        "imagepath": "Sniper1.png",
+                        "name": "Sniper Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "450",
+                        "streak": "3",
+                        "imagepath": "Sniper2.png",
+                        "name": "Sniper Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "750",
+                        "streak": "4",
+                        "imagepath": "Sniper3.png",
+                        "name": "Sniper Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "1200",
+                        "streak": "5",
+                        "imagepath": "Sniper4.png",
+                        "name": "Sniper Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "2000",
+                        "streak": "6",
+                        "imagepath": "Sniper5.png",
+                        "name": "Sniper Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "3000",
+                        "streak": "8",
+                        "imagepath": "Sniper6.png",
+                        "name": "Sniper Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "4500",
+                        "streak": "10",
+                        "imagepath": "Sniper7.png",
+                        "name": "Sniper Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Sniping",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "empire": "ALL",
+                        "level": "1",
+                        "counters": "200",
+                        "streak": "2",
+                        "imagepath": "SpecialAssault1.png",
+                        "name": "Special Assault Qualification"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "2",
+                        "counters": "400",
+                        "streak": "3",
+                        "imagepath": "SpecialAssault2.png",
+                        "name": "Special Assault Bronze"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "3",
+                        "counters": "700",
+                        "streak": "4",
+                        "imagepath": "SpecialAssault3.png",
+                        "name": "Special Assault Silver"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "4",
+                        "counters": "1200",
+                        "streak": "5",
+                        "imagepath": "SpecialAssault4.png",
+                        "name": "Special Assault Gold"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "5",
+                        "counters": "2000",
+                        "streak": "8",
+                        "imagepath": "SpecialAssault5.png",
+                        "name": "Special Assault Platinum"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "6",
+                        "counters": "3000",
+                        "streak": "10",
+                        "imagepath": "SpecialAssault6.png",
+                        "name": "Special Assault Titanium"
+                     },
+                     {
+                        "empire": "ALL",
+                        "level": "7",
+                        "counters": "5000",
+                        "streak": "12",
+                        "imagepath": "SpecialAssault7.png",
+                        "name": "Special Assault Auraxium"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Special Assault",
+                  "_type": "Combat"
+               },
+               {
+                  "Merit": [
+                     {
+                        "PreReq": [
+                           {
+                              "_image": "BasicWeapons1.png",
+                              "name": "Basic Weapons Qualification"
+                           },
+                           {
+                              "_image": "Rifleman1.png",
+                              "name": "Rifleman Qualification"
+                           },
+                           {
+                              "_image": "HeavyWeapons1.png",
+                              "name": "Heavy Weapons Qualification"
+                           },
+                           {
+                              "_image": "SpecialAssault1.png",
+                              "name": "Special Assault Qualification"
+                           },
+                           {
+                              "_image": "AntiArmor1.png",
+                              "name": "Anti-Armor Qualification"
+                           },
+                           {
+                              "_image": "Sniper1.png",
+                              "name": "Sniper Qualification"
+                           }
+                        ],
+                        "empire": "ALL",
+                        "level": "1",
+                        "imagepath": "WeaponsCitation1.png",
+                        "name": "Weapons Citation Specialist"
+                     },
+                     {
+                        "PreReq": [
+                           {
+                              "_image": "BasicWeapons2.png",
+                              "name": "Basic Weapons Bronze"
+                           },
+                           {
+                              "_image": "Rifleman2.png",
+                              "name": "Rifleman Bronze"
+                           },
+                           {
+                              "_image": "HeavyWeapons2.png",
+                              "name": "Heavy Weapons Bronze"
+                           },
+                           {
+                              "_image": "SpecialAssault2.png",
+                              "name": "Special Assault Bronze"
+                           },
+                           {
+                              "_image": "AntiArmor2.png",
+                              "name": "Anti-Armor Bronze"
+                           },
+                           {
+                              "_image": "Sniper2.png",
+                              "name": "Sniper Bronze"
+                           }
+                        ],
+                        "empire": "ALL",
+                        "level": "2",
+                        "imagepath": "WeaponsCitation2.png",
+                        "name": "Weapons Citation Expert"
+                     },
+                     {
+                        "PreReq": [
+                           {
+                              "_image": "BasicWeapons3.png",
+                              "name": "Basic Weapons Silver"
+                           },
+                           {
+                              "_image": "Rifleman3.png",
+                              "name": "Rifleman Silver"
+                           },
+                           {
+                              "_image": "HeavyWeapons3.png",
+                              "name": "Heavy Weapons Silver"
+                           },
+                           {
+                              "_image": "SpecialAssault3.png",
+                              "name": "Special Assault Silver"
+                           },
+                           {
+                              "_image": "AntiArmor3.png",
+                              "name": "Anti-Armor Silver"
+                           },
+                           {
+                              "_image": "Sniper3.png",
+                              "name": "Sniper Silver"
+                           }
+                        ],
+                        "empire": "ALL",
+                        "level": "3",
+                        "imagepath": "WeaponsCitation3.png",
+                        "name": "Weapons Citation Master"
+                     }
+                  ],
+                  "GroupDescription": "",
+                  "name": "Weapon Citation",
+                  "_type": "Combat"
+               }
+            ]
+         }
+      ]
+   }
+}

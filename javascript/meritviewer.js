@@ -6,3 +6,7 @@ const empireColors = {
   "tr" : ["darkred", "black"],
   "vs" : ["darkpurple", "seagreen"]
 }
+
+const changeEmpireGradientTheme = (empreColorArray) => {
+  console.log("From the changeEmpireGradientTheme function");
+}
