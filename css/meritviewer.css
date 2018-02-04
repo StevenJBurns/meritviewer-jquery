@@ -18,7 +18,8 @@ header {
   color: #D0D0D0;
   font-family: Coalition;
   font-weight: normal;
-  font-style: normal
+  font-style: normal;
+  transition: all 0.75s ease;
 }
 
 header h2 {
@@ -63,6 +64,7 @@ main img {
 footer {
   padding: 12px;
   color: #D0D0D0;
+  transition: all 0.75s ease;
 }
 
 footer h6 {

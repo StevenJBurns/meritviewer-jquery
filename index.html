@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
     <link rel="stylesheet" href="css/meritviewer.css" />
-    <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+    <script src="https://use.fontawesome.com/releases/v5.0.6/js/all.js" defer></script>
     <script src="http://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
@@ -19,16 +19,25 @@
     </header>
     <!-- <nav class="grey darken-3"></nav> -->
     <main class="container grey darken-1">
-      <p class="row">MeritViewer is the very first simple, modern application I began work on way back in 2005.  At the time I was engrossed in a massive online combat video game called PlanetSide produced by Sony Online Entertainment.  The game had a merit system that rewarded players as well as granting bragging rights after achieving certain milestones with weapons, vehicles and various in-game activities.</p>
-      <p class="row">While I had been tinkering and experimenting in computers and programming as far back as the late 1980s, it wasn't until starting MeritViewer I decided to go after it a little more seriously.</p>
-      <p class="row">As I was only familiar with the Windows environment, my first stab at the project was in Visual Basic .NET on Windows XP.  I didn't know much back then but I figured quickly that Visual Basic didn't click with me as a language.  Having never touched a C-style language I took a plunge and began learning C# on my own, a choice I am still happy with 12 years later. </p>
-      <p class="row">The original PlanetSide shut its doors a few years ago and a sequel (PlanetSide2) was released in late 2012.  This essentially killed even a nostalgic need for this application.  At the same time the sequel has a similar merit and reward system, however it is completely flat and uninteresting given the fact that every last achievement is earned by completing the same task 1,160 times.  It seems little-to-no thought was given to the PlanetSide2 merit system and I will most likely never attempt a similar project based on the follow-up version of the game. Rumors abound that a PlanetSide3 is in the works at the time of writing this in early 2018.  If it has an &quot;interesting&quot; aspect to it perhaps it is something I could tackle again, assuming I will actively be playing the game.</p>
+      <p class="row">MeritViewer is the very first simple, modern application I began work on way back in 2005.  At the time I was engrossed in a massive online combat video game called PlanetSide produced by Sony Online Entertainment.  The game had a merit system that rewarded players (and granted bragging rights) after achieving certain milestones with weapons, vehicles and various in-game activities.</p>
+      <p class="row">While I had been tinkering and experimenting in computers and programming as far back as the late 1980s, it wasn't until starting MeritViewer I decided to go after it a little more seriously. As I was only familiar with the Windows environment, my first stab at the project was in Visual Basic .NET on Windows XP.  I didn't know much back then but I figured quickly that Visual Basic didn't click with me as a language.  Having never touched a C-style language I took a plunge and began learning C# on my own, a choice I am still happy with 12 years later.</p>
+      <p class="row">The original PlanetSide shut its doors in July 2016 while a sequel (PlanetSide2) was released in late 2012.  This essentially killed even a nostalgic need for this application.  At the same time the sequel has a similar merit and reward system, however it is completely flat and uninteresting given the fact that every last achievement is earned by completing the same task 1,160 times.  It seems little-to-no thought was given to the PlanetSide2 merit system and I will most likely never attempt a similar project based on the follow-up version of the game. Rumors abound that a PlanetSide3 is in the works at the time of writing this in early 2018.  If it has an &quot;interesting&quot; aspect to it perhaps it is something I could tackle again, assuming I will actively be playing the game.</p>
       <hr class="row" />
       <div id="div-empire-select" class="row">
-        <a class="btn-large waves-effect waves-dark grey lighten-3" onclick="changeEmpireGradientTheme()"><img src="./logos/planetside.png" /></a>
-        <a class="btn-large waves-effect waves-dark grey lighten-3" onclick="changeEmpireGradientTheme()"><img src="./logos/new-conglomerate.png" /></a>
-        <a class="btn-large waves-effect waves-dark grey lighten-3" onclick="changeEmpireGradientTheme()"><img src="./logos/terran-republic.png" /></a>
-        <a class="btn-large waves-effect waves-dark grey lighten-3" onclick="changeEmpireGradientTheme()"><img src="./logos/vanu-sovereignty.png" /></a>
+        <h4 id="h4-selected-empire"></h4>
+        <a class="btn-large waves-effect waves-dark grey lighten-3" onclick="changeSelectedEmpire('all')">
+          <img src="./logos/planetside.png" data-empire-label="All Empires" />
+        </a>
+        <a class="btn-large waves-effect waves-dark grey lighten-3" onclick="changeSelectedEmpire('nc')">
+          <img src="./logos/new-conglomerate.png" data-empire-label="New Conglomerate" />
+        </a>
+        <a class="btn-large waves-effect waves-dark grey lighten-3" onclick="changeSelectedEmpire('tr')">
+          <img src="./logos/terran-republic.png" data-empire-label="Terran Republic" />
+        </a>
+        <a class="btn-large waves-effect waves-dark grey lighten-3" onclick="changeSelectedEmpire('vs')">
+          <img src="./logos/vanu-sovereignty.png" data-empire-label="Vanu Sovereignty" />
+        </a>
+        <h5 id="h5-hover-empire"></h5>
       </div>
     </main>
     <footer class="grey darken-4">
