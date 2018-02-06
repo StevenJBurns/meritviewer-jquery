@@ -61,6 +61,34 @@ main img {
   width: 100%
 }
 
+.shuffle {
+  overflow: visible;
+  height: 192px;
+}
+
+.category {
+  margin: 4px;
+  padding: 2px;
+  height: 8vw;
+  width: 8vw;
+  min-height: 96px;
+  min-width: 96px;
+  background: seagreen;
+  text-align: center;
+  display: inline-block
+}
+
+.group {
+  background: skyblue;
+  margin: 4px;
+  /* padding: 2px;
+  height: 8vw;
+  width: 8vw;
+  min-height: 144px;
+  min-width: 144px;
+  text-align: center; */
+}
+
 footer {
   padding: 12px;
   color: #D0D0D0;
