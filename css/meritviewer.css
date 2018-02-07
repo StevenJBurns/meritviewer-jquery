@@ -44,6 +44,7 @@ main p {
 }
 
 #div-empire-select {
+  margin: 0 auto;
   text-align: center
 }
 
@@ -61,11 +62,6 @@ main img {
   width: 100%
 }
 
-#div-groups {
-  /* overflow: visible;
-  height: 192px; */
-}
-
 .category {
   margin: 4px;
   padding: 2px;
@@ -80,13 +76,19 @@ main img {
 
 .group {
   background: skyblue;
-  margin-top: 8px;
+  margin-top: 12px;
+  margin-right: 2px;
   padding: 2px;
   height: 8vw;
   width: 8vw;
   min-height: 144px;
   min-width: 144px;
   text-align: center;
+}
+
+#div-categories {
+  margin: 0 auto;
+  text-align: center
 }
 
 #div-groups {

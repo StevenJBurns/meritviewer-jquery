@@ -46,7 +46,7 @@ const fetchAppData = (url) => {
     .then(json => AppData = json)
     .then(groupsShuffle = new Shuffle(document.querySelector("#div-groups"),
       {
-        buffer: 0, // Useful for percentage based heights when they might not always be exactly the same (in pixels).
+        buffer: 1, // Useful for percentage based heights when they might not always be exactly the same (in pixels).
         columnThreshold: 0.01, // Reading the width of elements isn't precise enough and can cause columns to jump between values.
         columnWidth: 160, // A static number or function that returns a number which tells the plugin how wide the columns are (in pixels).
         // delimeter: null, // If your group is not json, and is comma delimeted, you could set delimeter to ','.
@@ -55,15 +55,15 @@ const fetchAppData = (url) => {
         group: Shuffle.ALL_ITEMS, // Initial filter group.
         gutterWidth: 0, // A static number or function that tells the plugin how wide the gutters between columns are (in pixels).
         initialSort: null, // Shuffle can be initialized with a sort object. It is the same object given to the sort method.
-        isCentered: false, // Attempt to center grid items in each row.
+        isCentered: true, // Attempt to center grid items in each row.
         //itemSelector: [".group"], // e.g. '.picture-item'.
         roundTransforms: true, // Whether to round pixel values used in translate(x, y). This usually avoids blurriness.
         sizer: null, // Element or selector string. Use an element to determine the size of columns and gutters.
-        speed: 250, // Transition/animation speed (milliseconds).
-        staggerAmount: 500, // Transition delay offset for each item in milliseconds.
+        speed: 333, // Transition/animation speed (milliseconds).
+        staggerAmount: 50, // Transition delay offset for each item in milliseconds.
         staggerAmountMax: 150, // Maximum stagger delay in milliseconds.
         throttleTime: 300, // How often shuffle can be called on resize (in milliseconds).
-        useTransforms: false, // Whether to use transforms or absolute positioning.
+        useTransforms: true, // Whether to use transforms or absolute positioning.
         })
     )
     .then(data => initDataElements())
@@ -84,7 +84,7 @@ const initDataElements = () => {
   let merits = [];
 
   for (let cat of AppData.MeritData.Category) {
-    let newCategory = `<div class="btn category" data-group="${cat.name}" onclick="handleCategoryClick('${cat.name}')"><h6>${cat.name}</h6></div>`;
+    let newCategory = `<div class="btn category center-align" data-group="${cat.name}" onclick="handleCategoryClick('${cat.name}')"><h6>${cat.name}</h6></div>`;
     $('#div-categories').append(newCategory);
 
     for (let grp of cat.Group) {
