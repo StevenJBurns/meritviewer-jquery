@@ -62,8 +62,8 @@ main img {
 }
 
 #div-groups {
-  overflow: visible;
-  height: 192px;
+  /* overflow: visible;
+  height: 192px; */
 }
 
 .category {
@@ -80,7 +80,7 @@ main img {
 
 .group {
   background: skyblue;
-  margin: 4px;
+  margin-top: 8px;
   padding: 2px;
   height: 8vw;
   width: 8vw;
