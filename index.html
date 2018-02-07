@@ -25,7 +25,7 @@
       <hr class="row" />
       <div id="div-empire-select" class="row">
         <h4 id="h4-selected-empire"></h4>
-        <a class="btn-large waves-effect waves-dark grey lighten-3" onclick="changeSelectedEmpire('all')">
+        <a class="btn-large waves-effect waves-dark grey lighten-3 active" data-group="all" onclick="changeSelectedEmpire('all')">
           <img src="./logos/planetside.png" data-empire-label="All Empires" />
         </a>
         <a class="btn-large waves-effect waves-dark grey lighten-3" onclick="changeSelectedEmpire('nc')">
@@ -43,6 +43,7 @@
       <div id="div-categories"></div>
       <hr class="row" />
       <div id="div-groups" class="row"></div>
+      <div class="col s1 sizer"></div>
     </main>
     <footer class="grey darken-4">
       <h6>&copy;2018 &bull; Steven J Burns</h6>

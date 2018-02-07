@@ -61,7 +61,7 @@ main img {
   width: 100%
 }
 
-.shuffle {
+#div-groups {
   overflow: visible;
   height: 192px;
 }
@@ -81,12 +81,17 @@ main img {
 .group {
   background: skyblue;
   margin: 4px;
-  /* padding: 2px;
+  padding: 2px;
   height: 8vw;
   width: 8vw;
   min-height: 144px;
   min-width: 144px;
-  text-align: center; */
+  text-align: center;
+}
+
+#div-groups {
+  height: 256px;
+  overflow: visible
 }
 
 footer {
