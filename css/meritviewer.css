@@ -65,10 +65,8 @@ main img {
 .category {
   margin: 4px;
   padding: 2px;
-  height: 8vw;
   width: 8vw;
-  min-height: 96px;
-  min-width: 96px;
+  min-width: 120px;
   text-align: center;
   display: inline-block
 }
@@ -77,15 +75,15 @@ main img {
   margin-top: 12px;
   margin-right: 2px;
   padding: 2px;
-  height: 8vw;
-  width: 8vw;
-  min-height: 144px;
-  min-width: 144px;
+  width: 12vw;
+  min-width: 192px;
   text-align: center;
 }
 
 .merit {
-  margin: 4px
+  margin: 4px;
+  width: 100%;
+  display: inline-block;
 }
 
 #div-categories {
@@ -103,7 +101,9 @@ main img {
 }
 
 #ul-merits li {
-  margin: 4px
+  margin: 4px;
+  width: 100%;
+  text-align: left
 }
 
 footer {

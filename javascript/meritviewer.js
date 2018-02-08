@@ -110,7 +110,7 @@ const initDataElements = () => {
   let merits = [];
 
   for (let cat of AppData.categories) {
-    let newCategory = `<div class="btn category green darken-4 center-align" data-group="${cat.title}" onclick="handleCategoryClick('${cat.title}')"><h6>${cat.title}</h6></div>`;
+    let newCategory = `<div class="btn category green darken-4 waves-effect waves-light center-align" data-group="${cat.title}" onclick="handleCategoryClick('${cat.title}')"><h6>${cat.title}</h6></div>`;
     $('#div-categories').append(newCategory);
 
     for (let grp of cat.groups) {
@@ -124,13 +124,13 @@ const initDataElements = () => {
 
   for (let g of groups) {
     let dataGroups = groups["parent"];
-    let newGroup = `<div class="btn group green darken-3" data-groups='["${g.parent}"]' onclick="handleGroupClick('${g.title}')"><h6>${g.title}</h6></div>`;
+    let newGroup = `<div class="btn group green darken-3 waves-effect" data-groups='["${g.parent}"]' onclick="handleGroupClick('${g.title}')"><h6>${g.title}</h6></div>`;
     $('#div-groups').append(newGroup);
   }
 
   for (let m of merits) {
     let dataGroups = merits["parent"];
-    let newMerit = `<li class="btn merit green darken-2" data-groups='["${m.parent}"]'><h6>${m.title}</h6></li>`;
+    let newMerit = `<li class="btn merit green darken-2 waves-effect" data-groups='["${m.parent}"]'><h6>${m.title}</h6></li>`;
     $('#ul-merits').append(newMerit);
   }
 }
@@ -143,11 +143,10 @@ const changeSelectedEmpire = (newEmpire) => {
 
 const handleCategoryClick = (category) => {
   groupsShuffle.filter(category);
+  meritsShuffle.filter("none");
 }
 
-const handleGroupClick = (group) => {
-  meritsShuffle.filter(group);
-}
+const handleGroupClick = (group) => meritsShuffle.filter(group);
 
 fetchAppData(dataURL);
 initLocalStorage();
