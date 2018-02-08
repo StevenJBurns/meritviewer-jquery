@@ -69,13 +69,11 @@ main img {
   width: 8vw;
   min-height: 96px;
   min-width: 96px;
-  background: seagreen;
   text-align: center;
   display: inline-block
 }
 
 .group {
-  background: skyblue;
   margin-top: 12px;
   margin-right: 2px;
   padding: 2px;
@@ -94,6 +92,14 @@ main img {
 #div-groups {
   height: 256px;
   overflow: visible
+}
+
+#ul-merits {
+  list-style: none;
+}
+
+#ul-merits li {
+  display: inline-block;
 }
 
 footer {

@@ -83,21 +83,22 @@ const initDataElements = () => {
   let groups = [];
   let merits = [];
 
-  for (let cat of AppData.MeritData.Category) {
-    let newCategory = `<div class="btn category center-align" data-group="${cat.name}" onclick="handleCategoryClick('${cat.name}')"><h6>${cat.name}</h6></div>`;
+  for (let cat of AppData.categories) {
+    let newCategory = `<div class="btn category green darken-4 center-align" data-group="${cat.title}" onclick="handleCategoryClick('${cat.title}')"><h6>${cat.title}</h6></div>`;
     $('#div-categories').append(newCategory);
 
-    for (let grp of cat.Group) {
-      groups.push({"name" : grp.name, "parent" : cat.name});
+    for (let grp of cat.groups) {
+      groups.push({"title" : grp.title, "parent" : cat.title});
     }
   }
 
   for (let g of groups) {
     let dataGroups = groups["parent"];
-    let newGroup = `<div class="btn group" data-groups='["${g.parent}"]'><h6>${g.name}</h6></div>`;
+    let newGroup = `<div class="btn group green darken-3" data-groups='["${g.parent}"]'><h6>${g.title}</h6></div>`;
     $('#div-groups').append(newGroup);
   }
-  //groupsShuffle.update();
+
+
 }
 
 const changeSelectedEmpire = (newEmpire) => {
