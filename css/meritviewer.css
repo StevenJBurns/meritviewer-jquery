@@ -84,6 +84,10 @@ main img {
   text-align: center;
 }
 
+.merit {
+  margin: 4px
+}
+
 #div-categories {
   margin: 0 auto;
   text-align: center
@@ -99,7 +103,7 @@ main img {
 }
 
 #ul-merits li {
-  display: inline-block;
+  margin: 4px
 }
 
 footer {
