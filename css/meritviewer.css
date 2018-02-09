@@ -40,7 +40,8 @@ main {
 }
 
 main p {
-  text-align: justify
+  text-align: justify;
+  display: none
 }
 
 #div-empire-select {
