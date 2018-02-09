@@ -416,6 +416,9 @@
       "title": "Expedition",
       "groups": [
           {
+            "title": "Air Combat Ace",
+            "description": "Shoot planes down",
+            "type": "Combat",
             "merits": [
                 {
                   "empire": "ALL",
@@ -473,10 +476,7 @@
                   "imagepath": "AirCombatAce7.png",
                   "title": "Air Combat Ace Auraxium"
                 }
-            ],
-            "description": "Shoot planes down",
-            "title": "Air Combat Ace",
-            "_type": "Combat"
+            ]
           },
           {
             "merits": [
@@ -539,7 +539,7 @@
             ],
             "description": "Shoot planes down",
             "title": "Air Defender",
-            "_type": "Combat"
+            "type": "Combat"
           },
           {
             "merits": [
@@ -602,7 +602,7 @@
             ],
             "description": "Gaybot Killer",
             "title": "BFR Buster",
-            "_type": "Combat"
+            "type": "Combat"
           },
           {
             "merits": [
@@ -649,7 +649,7 @@
             ],
             "description": "Gaybot Killer",
             "title": "Black Ops Hunter",
-            "_type": "Combat"
+            "type": "Combat"
           },
           {
             "merits": [
@@ -704,7 +704,7 @@
             ],
             "description": "",
             "title": "Engineering",
-            "_type": "Combat"
+            "type": "Combat"
           },
           {
             "merits": [
@@ -717,7 +717,7 @@
             ],
             "description": "",
             "title": "Exploration",
-            "_type": "Citation"
+            "type": "Citation"
           },
           {
             "merits": [
@@ -780,7 +780,7 @@
             ],
             "description": "",
             "title": "Jacking",
-            "_type": "Support"
+            "type": "Support"
           },
           {
             "description": "",
@@ -835,7 +835,7 @@
                 }
             ],
             "title": "MAX Buster",
-            "_type": "Combat"
+            "type": "Combat"
           },
           {
             "merits": [
@@ -898,7 +898,7 @@
             ],
             "description": "",
             "title": "Supply Blockade",
-            "_type": "Combat"
+            "type": "Combat"
           },
           {
             "merits": [
@@ -961,7 +961,7 @@
             ],
             "description": "",
             "title": "Tank Buster",
-            "_type": "Combat"
+            "type": "Combat"
           },
           {
             "merits": [
@@ -1024,7 +1024,7 @@
             ],
             "description": "Deli's, Sundy's and such",
             "title": "Transport Blockade",
-            "_type": "Combat"
+            "type": "Combat"
           }
       ]
     },
@@ -1032,6 +1032,9 @@
       "title": "Support",
       "groups": [
           {
+            "title": "AMS Support",
+            "description": "Mr Helper",
+            "type": "Support",
             "merits": [
                 {
                   "empire": "ALL",
@@ -1089,12 +1092,12 @@
                   "imagepath": "AMS7.png",
                   "title": "AMS Support Auraxium"
                 }
-            ],
-            "description": "Mr Helper",
-            "title": "AMS Support",
-            "_type": "Support"
+            ]
           },
           {
+            "title": "Combat Medic",
+            "description": "",
+            "type": "Support",
             "merits": [
                 {
                   "empire": "ALL",
@@ -1152,12 +1155,12 @@
                   "imagepath": "CombatMedic7.png",
                   "title": "Combat Medic Auraxium"
                 }
-            ],
-            "description": "",
-            "title": "Combat Medic",
-            "_type": "Support"
+            ]
           },
           {
+            "title": "Combat Resuscitation",
+            "description": "",
+            "type": "Support",
             "merits": [
                 {
                   "empire": "ALL",
@@ -1215,12 +1218,12 @@
                   "imagepath": "CombatResus7.png",
                   "title": "Combat Resuscitation Auraxium"
                 }
-            ],
-            "description": "",
-            "title": "Combat Resuscitation",
-            "_type": "Support"
+            ]
           },
           {
+            "title": "Equipment Support",
+            "description": "",
+            "type": "Support",
             "merits": [
                 {
                   "empire": "ALL",
@@ -1278,12 +1281,12 @@
                   "imagepath": "EquipmentSupport7.png",
                   "title": "Equipment Support Auraxium"
                 }
-            ],
-            "description": "",
-            "title": "Equipment Support",
-            "_type": "Support"
+            ]
           },
           {
+            "description": "",
+            "title": "Galaxy Support Pilot",
+            "type": "Support",
             "merits": [
                 {
                   "empire": "ALL",
@@ -1341,12 +1344,12 @@
                   "imagepath": "GalaxySupportPilot7.png",
                   "title": "Galaxy Support Pilot Auraxium"
                 }
-            ],
-            "description": "",
-            "title": "Galaxy Support Pilot",
-            "_type": "Support"
+            ]
           },
           {
+            "title": "Hacking Support",
+            "description": "",
+            "type": "Support",
             "merits": [
                 {
                   "empire": "ALL",
@@ -1404,12 +1407,11 @@
                   "imagepath": "HackingSupport7.png",
                   "title": "Hacking Support Auraxium"
                 }
-            ],
-            "description": "",
-            "title": "Hacking Support",
-            "_type": "Support"
+            ]
           },
           {
+            "title": "Hacking Support",
+            "type": "Support",
             "merits": [
                 {
                   "empire": "ALL",
@@ -1417,11 +1419,12 @@
                   "imagepath": "HackingSupportSpecialist.png",
                   "title": "Hacking Support Specialist"
                 }
-            ],
-            "title": "Hacking Support",
-            "_type": "Support"
+            ]
           },
           {
+            "description": "",
+            "title": "Infantry Armor Support",
+            "type": "Support",
             "merits": [
                 {
                   "empire": "ALL",
@@ -1479,12 +1482,12 @@
                   "imagepath": "InfantryArmorSupport7.png",
                   "title": "Infantry Armor Support Auraxium"
                 }
-            ],
-            "description": "",
-            "title": "Infantry Armor Support",
-            "_type": "Support"
+            ]
           },
           {
+            "description": "",
+            "title": "Locker Hacker",
+            "type": "Support",
             "merits": [
                 {
                   "empire": "ALL",
@@ -1542,12 +1545,12 @@
                   "imagepath": "LockerHacker7.png",
                   "title": "Locker Hacker Auraxium"
                 }
-            ],
-            "description": "",
-            "title": "Locker Hacker",
-            "_type": "Support"
+            ]
           },
           {
+            "title": "Lodestar Support",
+            "description": "",
+            "type": "Support",
             "merits": [
                 {
                   "empire": "ALL",
@@ -1605,12 +1608,12 @@
                   "imagepath": "LodestarSupport7.png",
                   "title": "Lodestar Support Auraxium"
                 }
-            ],
-            "description": "",
-            "title": "Lodestar Support",
-            "_type": "Support"
+            ]
           },
           {
+            "title": "Resuscitation Medic",
+            "description": "",
+            "type": "Support",
             "merits": [
                 {
                   "empire": "ALL",
@@ -1668,12 +1671,12 @@
                   "imagepath": "ResusMedic7.png",
                   "title": "Resuscitation Medic Auraxium"
                 }
-            ],
-            "description": "",
-            "title": "Resuscitation Medic",
-            "_type": "Support"
+            ]
           },
           {
+            "description": "",
+            "title": "RouterSupport",
+            "type": "Support",
             "merits": [
                 {
                   "empire": "ALL",
@@ -1731,12 +1734,12 @@
                   "imagepath": "RouterSupport7.png",
                   "title": "Router Support Auraxium"
                 }
-            ],
-            "description": "",
-            "title": "RouterSupport",
-            "_type": "Support"
+            ]
           },
           {
+            "description": "",
+            "title": "Telepad Deployment",
+            "type": "Support",
             "merits": [
                 {
                   "empire": "ALL",
@@ -1794,12 +1797,12 @@
                   "imagepath": "TelepadDeployment7.png",
                   "title": "Telepad Deployment Auraxium"
                 }
-            ],
-            "description": "",
-            "title": "Telepad Deployment",
-            "_type": "Support"
+            ]
           },
           {
+            "title": "Tiny Robotics",
+            "description": "Fix your lil buddies!",
+            "type": "Support",
             "merits": [
                 {
                   "empire": "ALL",
@@ -1857,10 +1860,7 @@
                   "imagepath": "TinyRobotics7.png",
                   "title": "Tiny Robotics Auraxium"
                 }
-            ],
-            "description": "Fix your lil buddies!",
-            "title": "Tiny Robotics",
-            "_type": "Support"
+            ]
           }
       ]
     },
@@ -1868,6 +1868,9 @@
       "title": "Vehicular",
       "groups": [
           {
+            "title": "Advanced BFR",
+            "description": "Advanced Gheyness",
+            "type": "Combat",
             "merits": [
                 {
                   "empire": "ALL",
@@ -1909,12 +1912,12 @@
                   "imagepath": "AdvancedBFR5.png",
                   "title": "Advanced BFR"
                 }
-            ],
-            "description": "Advanced Gheyness",
-            "title": "Advanced BFR",
-            "_type": "Combat"
+            ]
           },
           {
+            "title": "Air Combat Ace",
+            "description": "Shoot other planes down",
+            "type": "Combat",
             "merits": [
                 {
                   "empire": "ALL",
@@ -1972,12 +1975,12 @@
                   "imagepath": "AirCombatAce7.png",
                   "title": "Air Combat Ace Auraxium"
                 }
-            ],
-            "description": "Shoot other planes down",
-            "title": "Air Combat Ace",
-            "_type": "Combat"
+            ]
           },
           {
+            "title": "Bombardier",
+            "description": "",
+            "type": "Combat",
             "merits": [
                 {
                   "empire": "ALL",
@@ -2035,12 +2038,12 @@
                   "imagepath": "Bombardier7.png",
                   "title": "Bombardier Auraxium"
                 }
-            ],
-            "description": "",
-            "title": "Bombardier",
-            "_type": "Combat"
+            ]
           },
           {
+            "title": "Bomber Ace",
+            "description": "",
+            "type": "Combat",
             "merits": [
                 {
                   "empire": "ALL",
@@ -2098,12 +2101,12 @@
                   "imagepath": "BomberAce7.png",
                   "title": "Bomber Ace Auraxium"
                 }
-            ],
-            "description": "",
-            "title": "Bomber Ace",
-            "_type": "Combat"
+            ]
           },
           {
+            "title": "Cavalry Driver",
+            "description": "",
+            "type": "Combat",
             "merits": [
                 {
                   "empire": "ALL",
@@ -2161,12 +2164,12 @@
                   "imagepath": "CavalryDriver7.png",
                   "title": "Cavalry Driver Auraxium"
                 }
-            ],
-            "description": "",
-            "title": "Cavalry Driver",
-            "_type": "Combat"
+            ]
           },
           {
+            "title": "Cavalry Pilot",
+            "description": "",
+            "type": "Combat",
             "merits": [
                 {
                   "empire": "ALL",
@@ -2224,12 +2227,12 @@
                   "imagepath": "CavalryPilot7.png",
                   "title": "Cavalry Pilot Auraxium"
                 }
-            ],
-            "description": "",
-            "title": "Cavalry Pilot",
-            "_type": "Combat"
+            ]
           },
           {
+            "title": "Driver Gunnery",
+            "description": "",
+            "type": "Combat",
             "merits": [
                 {
                   "empire": "ALL",
@@ -2287,12 +2290,12 @@
                   "imagepath": "DriverGunnery7.png",
                   "title": "Driver Gunnery Auraxium"
                 }
-            ],
-            "description": "",
-            "title": "Driver Gunnery",
-            "_type": "Combat"
+            ]
           },
           {
+            "title": "Ground Gunner",
+            "description": "",
+            "type": "Combat",
             "merits": [
                 {
                   "empire": "ALL",
@@ -2350,12 +2353,12 @@
                   "imagepath": "GroundGunner7.png",
                   "title": "Ground Gunner Auraxium"
                 }
-            ],
-            "description": "",
-            "title": "Ground Gunner",
-            "_type": "Combat"
+            ]
           },
           {
+            "title": "Transportation Citation",
+            "description": "",
+            "type": "Combat",
             "merits": [
                 {
                   "empire": "ALL",
@@ -2397,12 +2400,12 @@
                   "imagepath": "TransportationCitation5.png",
                   "title": "Transportation Citation V"
                 }
-            ],
-            "description": "",
-            "title": "Transportation Citation",
-            "_type": "Combat"
+            ]
           },
           {
+            "title": "Turret Gunner",
+            "description": "",
+            "type": "Combat",
             "merits": [
                 {
                   "empire": "ALL",
@@ -2460,10 +2463,7 @@
                   "imagepath": "TurretGunner7.png",
                   "title": "Turret Gunner Auraxium"
                 }
-            ],
-            "description": "",
-            "title": "Turret Gunner",
-            "_type": "Combat"
+            ]
           }
       ]
     },
