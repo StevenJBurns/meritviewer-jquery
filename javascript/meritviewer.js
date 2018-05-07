@@ -89,11 +89,11 @@ const fetchAppData = (url) => {
       })
     )
     .then(data => initDataElements())
-    .then(function() {
+    .then(() => {
       let newItems = document.getElementById("div-groups").children;
       groupsShuffle.add([...newItems]);
     })
-    .then(function() {
+    .then(() => {
       let NewMerits = document.getElementById("ul-merits").children;
       meritsShuffle.add([...NewMerits]);
     })
