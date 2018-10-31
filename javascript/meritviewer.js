@@ -110,7 +110,7 @@ const initDataElements = () => {
   let merits = [];
 
   for (let cat of AppData.categories) {
-    let newCategory = `<div class="btn category green darken-4 waves-effect waves-light center-align" data-group="${cat.title}" onclick="handleCategoryClick('${cat.title}')"><h6>${cat.title}</h6></div>`;
+    let newCategory = `<h6 class="btn category green darken-4 waves-effect waves-light center-align" data-group="${cat.title}" onclick="handleCategoryClick(event, '${cat.title}')">${cat.title}</h6>`;
     $('#div-categories').append(newCategory);
 
     for (let grp of cat.groups) {
@@ -124,7 +124,7 @@ const initDataElements = () => {
 
   for (let g of groups) {
     let dataGroups = groups["parent"];
-    let newGroup = `<div class="btn group green darken-3 waves-effect" data-groups='["${g.parent}"]' onclick="handleGroupClick('${g.title}')"><h6>${g.title}</h6></div>`;
+    let newGroup = `<h6 class="btn group green darken-3 waves-effect" data-groups='["${g.parent}"]' onclick="handleGroupClick(event, '${g.title}')">${g.title}</h6>`;
     $('#div-groups').append(newGroup);
   }
 
@@ -139,14 +139,18 @@ const changeSelectedEmpire = (newEmpire) => {
   currentEmpire = newEmpire;
   $('header, footer').attr("class", empireData[newEmpire]['style'][0]);
   $('#h4-selected-empire').text(empireData[newEmpire]['title']);
-}
+};
 
-const handleCategoryClick = (category) => {
+const handleCategoryClick = (e, category) => {
+  $(e.target).removeClass("darken-4").siblings().addClass("darken-4");
   groupsShuffle.filter(category);
   meritsShuffle.filter("none");
-}
+};
 
-const handleGroupClick = (group) => meritsShuffle.filter(group);
+const handleGroupClick = (e, group) => {
+  $(e.target).removeClass("darken-3").siblings().addClass("darken-3");
+  meritsShuffle.filter(group);
+};
 
 fetchAppData(dataURL);
 initLocalStorage();
