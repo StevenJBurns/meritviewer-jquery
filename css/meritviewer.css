@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Coalition_v2";
-  src: url(../fonts/coalition_v2.ttf);
+  src: url(../fonts/coalition_v2.ttf) format('truetype');
 }
 
 * {
