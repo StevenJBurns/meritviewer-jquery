@@ -24,7 +24,7 @@ header {
 header h2 {
   width: 100%;
   text-align: center;
-  /* font-size: 2.5vw */
+  font-size: 5vw
 }
 
 nav {
@@ -37,10 +37,16 @@ main {
   flex: 1 0 auto
 }
 
+main hr {
+  width: 80%;
+  max-width: 720px;
+  margin: 8px 0;
+}
+
 main p {
   padding: 16px;
   text-align: justify;
-  display: block
+  display: none
 }
 
 #div-empire-select {
@@ -58,10 +64,8 @@ main p {
 }
 
 main .btn-large {
-  height: 5vw;
-  width: 5vw;
-  min-height: 48px;
-  min-width: 48px;
+  height: 72px;
+  width: 72px;
   margin: 4px;
   padding: 0
 }
@@ -121,7 +125,18 @@ footer {
   transition: all 0.75s ease;
 }
 
-footer h6 {
+footer h5 {
   width: 100%;
+  font-size: 4vw;
   text-align: center
+}
+
+@media screen and (min-width: 640px) {
+  header h2 {
+     font-size: 32px;
+  }
+
+  footer h5 {
+    font-size: 24px;
+  }
 }
