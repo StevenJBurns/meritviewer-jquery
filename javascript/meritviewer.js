@@ -6,7 +6,7 @@ let Shuffle = window.Shuffle;
 let groupsShuffle;
 let meritsShuffle;
 
-const dataURL = "../data/meritviewer-data.json";
+const dataURL = "./data/meritviewer-data.json";
 
 const empireData = {
   "all" : {
