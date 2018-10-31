@@ -24,7 +24,7 @@ header {
 header h2 {
   width: 100%;
   text-align: center;
-  font-size: 2.5vw
+  /* font-size: 2.5vw */
 }
 
 nav {
@@ -49,6 +49,14 @@ main p {
   text-align: center
 }
 
+#h4-selected-empire {
+  visibility: hidden;
+}
+
+#h5-hover-empire {
+  visibility: hidden;
+}
+
 main .btn-large {
   height: 5vw;
   width: 5vw;
@@ -66,8 +74,7 @@ main img {
 .category {
   margin: 4px;
   padding: 2px;
-  width: 16vw;
-  min-width: 120px;
+  width: 144px;
   text-align: center;
   display: inline-block
 }
@@ -110,6 +117,7 @@ main img {
 footer {
   padding: 12px;
   color: #D0D0D0;
+  font-family: "Coalition_v2";
   transition: all 0.75s ease;
 }
 

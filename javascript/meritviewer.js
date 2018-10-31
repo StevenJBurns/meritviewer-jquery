@@ -138,7 +138,7 @@ const initDataElements = () => {
 const changeSelectedEmpire = (newEmpire) => {
   currentEmpire = newEmpire;
   $('header, footer').attr("class", empireData[newEmpire]['style'][0]);
-  $('#h4-selected-empire').text(empireData[newEmpire]['title']);
+  $('#h4-selected-empire').text(empireData[newEmpire]['title']).css("visibility", "visible");
 };
 
 const handleCategoryClick = (e, category) => {
